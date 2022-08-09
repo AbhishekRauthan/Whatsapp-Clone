@@ -33,5 +33,6 @@ export const LoginButton = styled(Button)`
   :hover {
     background-color: rgba(200, 200, 200, 50%);
   }
+  font-weight: bold;
   color: #000;
 `;
